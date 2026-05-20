@@ -1,1 +1,27 @@
-https://claude.ai/public/artifacts/428dad19-7b92-4cce-b4f5-fba9bc3b4dcf
+{
+  "name": "Dompet Pintar",
+  "short_name": "Dompet",
+  "description": "Aplikasi pengatur keuangan pribadi - pemasukan & pengeluaran",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a1018",
+  "theme_color": "#0f1923",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "productivity"],
+  "lang": "id",
+  "dir": "ltr"
+}
